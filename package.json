@@ -1,0 +1,19 @@
+{
+  "name": "dothjs",
+  "version": "0.0.1",
+  "description": "The ol darth doth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knieber/dothjs.git"
+  },
+  "author": "Kyle Nieber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knieber/dothjs/issues"
+  },
+  "homepage": "https://github.com/knieber/dothjs#readme"
+}
